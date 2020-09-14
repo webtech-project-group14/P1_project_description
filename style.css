@@ -5,9 +5,10 @@ body{
 }
 
 .box{
-    border: blue dashed 3px;
+    border: black dashed 2px;
     position: relative;
     background: white;
+    padding: 15px;
 }
 
 h2{
