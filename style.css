@@ -1,0 +1,24 @@
+body{
+    font-family: Verdana, Helvetica, serif;
+    margin: auto;
+    max-width: 50%;
+}
+
+.box{
+    border: black dashed 2px;
+    position: relative;
+    background: white;
+    padding: 15px;
+}
+
+h2{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
