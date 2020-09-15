@@ -6,7 +6,7 @@ body{
 
 }
 
-div {
+.box {
     border: black dashed 1px;
     position: relative;
     padding: 15px;
@@ -25,24 +25,25 @@ p{
 }
 
 footer {
-position:absolute;
-margin-top: 10px;
-margin-bottom: 5px;
-font-size: 15px;
-
-
+    position:absolute;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 15px;
 }
 
 ul {
-  list-style-type: square;
+    list-style-type: square;
 }
 
 img {
-  display: block;
-   margin-left: 50%;
-   margin-right: auto;
+   padding-left: 15px;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .klient_info {
-  text-align: left;
+    text-align: left;
 }
