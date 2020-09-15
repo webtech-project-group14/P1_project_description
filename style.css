@@ -1,0 +1,48 @@
+body{
+    font-family: Verdana, Helvetica, serif;
+    margin: auto;
+    max-width: 50%;
+    background-color: #FAF0E6;
+
+}
+
+div {
+    border: black dashed 1px;
+    position: relative;
+    padding: 15px;
+}
+
+h2{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+footer {
+position:absolute;
+margin-top: 10px;
+margin-bottom: 5px;
+font-size: 15px;
+
+
+}
+
+ul {
+  list-style-type: square;
+}
+
+img {
+  display: block;
+   margin-left: 50%;
+   margin-right: auto;
+}
+
+.klient_info {
+  text-align: left;
+}
