@@ -1,7 +1,7 @@
 body{
     font-family: Verdana, Helvetica, serif;
     margin: auto;
-    max-width: 50%;
+    max-width: 60%;
     background-color: #FAF0E6;
 
 }
@@ -10,6 +10,7 @@ body{
     border: black dashed 1px;
     position: relative;
     padding: 15px;
+    margin-bottom:10px;
 }
 
 h2{
@@ -37,13 +38,11 @@ ul {
 
 img {
    padding-left: 15px;
+   width:200px;
+   height:auto;
 }
 
 .flex {
     display: flex;
     flex-wrap: nowrap;
-}
-
-.klient_info {
-    text-align: left;
 }
