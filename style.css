@@ -37,8 +37,9 @@ ul {
 }
 
 img {
-   padding-left: 15px;
-   width:100vw;
+    padding-left: 15px;
+    height: auto;
+    max-width: 401px;
 }
 
 .flex {
